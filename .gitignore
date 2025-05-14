@@ -1,0 +1,10 @@
+cat > .gitignore <<EOF
+tmp/
+*.swp
+*.swo
+*.o
+*.pyc
+*.log
+build/
+*~
+EOF
