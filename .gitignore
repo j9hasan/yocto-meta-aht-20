@@ -1,4 +1,4 @@
-cat > .gitignore <<EOF
+
 tmp/
 *.swp
 *.swo
@@ -7,4 +7,4 @@ tmp/
 *.log
 build/
 *~
-EOF
+
