@@ -19,4 +19,4 @@ IMAGE_ROOTFS_SIZE ?= "204800"
 #EXTRA_USERS_PARAMS = "\
 #	usermod -P 'toor' root; \
 #	"
-IMAGE_INSTALL += "aht-20"
+IMAGE_INSTALL += "yocto-meta-aht-20"
